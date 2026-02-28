@@ -62,6 +62,9 @@ Data Science: Pandas
 Orchestration: LangChain
 
 Environment: python-dotenv
+## 🎥 Demo Video
+
+[![Watch the demo](demo-thumbnail.png)](https://youtu.be/Vcp8dCZ2dhc)
 
 🚀 Installation & Setup
 1. Clone the Repository
