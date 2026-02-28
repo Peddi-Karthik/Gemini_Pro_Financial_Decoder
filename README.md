@@ -66,7 +66,7 @@ Environment: python-dotenv
 🚀 Installation & Setup
 1. Clone the Repository
 Bash
-git clone https://github.com/your-username/gemini-financial-decoder.git
+git clone https://github.com/Peddi-Karthik/Gemini_Pro_Financial_Decoder.git
 cd gemini-financial-decoder
 2. Configure Your API Key
 Go to Google AI Studio.
@@ -151,7 +151,7 @@ Environment: python-dotenv
 🚀 Installation & Setup
 1. Clone the Repository
 Bash
-git clone https://github.com/your-username/gemini-financial-decoder.git
+git clone https://github.com/Peddi-Karthik/Gemini_Pro_Financial_Decoder.git
 cd gemini-financial-decoder
 2. Configure Your API Key
 Go to Google AI Studio.
@@ -250,7 +250,7 @@ Environment: python-dotenv
 🚀 Installation & Setup
 1. Clone the Repository
 Bash
-git clone https://github.com/your-username/gemini-financial-decoder.git
+git clone https://github.com/Peddi-Karthik/Gemini_Pro_Financial_Decoder.git
 cd gemini-financial-decoder
 2. Configure Your API Key
 Go to Google AI Studio.
